@@ -1,4 +1,4 @@
-###Início do Esquenta Full Cycle 31/01/2022 10:00
+### Início do Esquenta Full Cycle 31/01/2022 10:00
 __Links úteis__
 
 * https://github.com/argentinaluiz/ambiente-dev-produtivo
